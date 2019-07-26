@@ -1,0 +1,43 @@
+
+/* Custom Style CSS */
+
+/* Frontend */
+
+/* Logo */
+.logo {
+    max-width: 50%;
+}
+.logo img {
+    width: 70%;
+}
+
+/* End Frontend */
+
+
+/* Auth */
+
+.card-login {
+    margin-top: 50px;
+}
+
+/* End Auth */
+
+
+
+
+/* Desktop Version */
+@media (min-width: 992px) { 
+
+    /* Frontend */
+
+    /* Logo */
+    .logo {
+        max-width: 50%;
+    }
+    .logo img {
+        width: 30%;
+    }
+
+    /* End Frontend */
+
+}
